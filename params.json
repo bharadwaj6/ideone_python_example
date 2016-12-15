@@ -1,0 +1,6 @@
+{
+  "name": "Ideone python example",
+  "tagline": "An example script that has ready to use code for accessing ideone API using Python.",
+  "body": "ideone_python_example\r\n=====================\r\n\r\nThe example.py is an example script that has ready to use code for accessing ideone API using Python.\r\n\r\nIt took only couple of hours for me to explore this API. But, I couldn't find any good resources or practical examples for using this API (in Python). \r\n\r\nSo, I've compiled all the basic API calls into this example repo, to ease the process of developing for people who might be searching for ideone python examples in the future.\r\n\r\nIf you want to use a wrapper over this API, use ideone-api: https://github.com/jschaf/ideone-api\r\n\r\nI have taken many references from many places on the Internet while writing this repo. The above repository helped me the most.\r\n\r\nMake sure to keep the ideone pdf documentation along side this when you write your code for the first time: http://ideone.com/files/ideone-api.pdf\r\n\r\nAbove all, enjoy!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
